@@ -1,3 +1,11 @@
+baseURL = "https://example.com"
+languageCode = "en"
+title = "Risotto"
+PygmentsCodeFences = true
+PygmentsStyle = "solarized-dark256"
+pluralizelisttitles = "false"
+paginate  = 6
+
 [module]
   [module.hugoVersion]
     min = "0.41.0"
